@@ -1,0 +1,199 @@
+body {
+	background-image: url("images/tweed.png");
+	margin:0;
+}
+
+#navcentre {
+	width:800px;
+	margin: 0 auto;
+	height: 100%;
+}
+
+#navbar {
+	width: 100%;
+	height: 50px;
+	background-color: #222222;
+	position: fixed;
+}
+
+#nav {
+	height: 50px;
+	overflow: hidden;
+	width: 400px;
+	float: left;
+}
+
+.navtab {
+	height: 23px;
+	width: 109px;
+
+	padding: 12px;
+}
+
+#about, #cv, #blog {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: white;
+	font-size: 20;
+	text-align: center;
+	float: left;
+	border-bottom: 3px solid;
+}
+
+#about {
+	border-bottom-color:#FF0000;
+}
+
+#cv {
+	border-bottom-color:#009B95;
+}
+
+#blog {
+	border-bottom-color:#9BED00;
+}
+
+a.navlink {
+  color:inherit;
+  text-decoration: none;
+}
+
+a.navlink:visited {
+  color:inherit;
+  text-decoration: none;
+}
+
+.navtab:hover {
+	background-color: #383838;
+}
+
+#language {
+	float: right;
+	height: 100%;
+	width: 200px;
+}
+
+#title {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	width:200px;
+	color:white;
+	font-size: 30;
+	padding-top: 8px;
+	float:left;
+}
+
+.langimg {
+	float:right;
+	padding:7px;
+	padding-right:0px;
+	padding-left:14px;
+	width: 36px;
+}
+
+.lang {
+	float:right;
+	padding-right:0px;
+	margin-left:14px;
+	width: 36px;
+}
+
+#pagewrap {
+	width:720px;
+	height:auto;
+	margin: 0 auto;
+	padding: 40px 40px 30px;
+	background-color:#FFFFFF;
+	border-radius: 15px;
+}
+
+.plainoldtext {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12pt;
+	text-align: left;
+    margin 0 0 30px 0;
+}
+
+#mybigface {
+	width:190px;
+	float:right;
+	margin: 20px 0px;
+	border-radius:10px;
+}
+
+.bigtitle {
+	font-family: 'Bree Serif', serif;
+	font-size: 80pt;
+	margin-top: 40px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+.subtitle {
+	font-family: 'Bree Serif', serif;
+	font-size: 35pt;
+	margin: 10px 0px 0px;
+}
+
+.littletitle {
+
+}
+
+#media {
+	margin: 30px auto 0px;
+	width: 192px;
+	height: 64px;
+}
+
+#gmail {
+	background-color: #FF0000;
+	width:64px;
+	height:64px;
+	border-radius: 10px 0px 0px 10px;
+	float:left;
+}
+
+#linkedin {
+	background-color: #009B95;
+	width:64px;
+	height:64px;
+	float:left;
+}
+
+#github {
+	background-color: #71ad00;
+	width:64px;
+	height:64px;
+	border-radius: 0px 10px 10px 0px;
+	float:left;
+}
+
+.cvlist {
+
+}
+
+.hrbig {
+	background: transparent;
+	border: 0 0 1px 0;
+	border-style: solid;
+	border-top-color: #777777;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+}
+
+.hrwee {
+	background: transparent;
+	border: 0 0 1px 0;
+	border-style: dashed;
+	border-top-color: #AAAAAA;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+}
+
+.tooltip {
+	display: none;
+	font-size: 8pt;
+}
+
+li {
+    margin: 4px 0;
+}
