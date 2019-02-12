@@ -10,6 +10,7 @@ Edinburgh
 
 http://frasersharp.com
 
+fraser.sharp@protonmail.com
 fraserrsharp@gmail.com
 
 CV.
@@ -17,14 +18,15 @@ CV.
 About me:
 
 
+Fraser is a Software Developer and DevOps Engineer.
 
-Fraser is a DevOps & Software Engineer, Linux enthusiast and maker.
+Studied Applied Computing BSc at the University of Dundee before moving to Edinburgh to pursue cutting-edge roles in Scotland's technology industry.
 
-Studied Applied Computing BSc at the University of Dundee; now lives in Edinburgh, where he has worked full-time as a Software Engineer for 2½ years.
+Spent 2½ years working as a Software Engineer at a body-worn camera start-up, and worked as part of a small development team to build an industry-competitive product portfolio.  Gained experience working with a range of development diciplines; from low-level embedded systems bugfixing to building scalable, secure content-delivery systems.  Gained particular experience with Linux system administration and virtualization.
 
-Currently works in R&D for Edesix Ltd, a body-worn CCTV manufacturer. Develops bespoke software on tight deadlines, keeps the company's servers running, and assists support and production teams in tackling weird and wonderful problems.
+Currently working with Cloudreach Ltd, a cloud computing consultancy business.  Advises and assists clients with designing and building successful cloud environments, and with using Agile and DevOps methodologies to ensure continued success and efficacy on their future cloud adoption journeys.  Gained professional certifications from AWS and Google Cloud Platform.
 
-Spends down-time working on various daft projects, such as building a DIY home 3D printer; developing a Gameboy emulator; hacking together interactive digital art toys and games; and building a 1500W electric skateboard (which has only resulted in very minor injuries!).
+Spends personal time pursuing an ever-growing list of hobbies.  Aviation fanatic, currently pursuing solo gliding certification, with the long-term goal of progressing to powered flight and obtaining a Private Pilot's Licence.  Other interests include electronics, 3D printing and RC flight.
 
 Experience:
 
