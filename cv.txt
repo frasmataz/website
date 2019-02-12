@@ -1,0 +1,158 @@
+
+
+
+
+Fraser Sharp
+
+DevOps & Software Engineer
+
+Edinburgh
+
+http://frasersharp.com
+
+fraserrsharp@gmail.com
+
+CV.
+
+About me:
+
+
+
+Fraser is a DevOps & Software Engineer, Linux enthusiast and maker.
+
+Studied Applied Computing BSc at the University of Dundee; now lives in Edinburgh, where he has worked full-time as a Software Engineer for 2½ years.
+
+Currently works in R&D for Edesix Ltd, a body-worn CCTV manufacturer. Develops bespoke software on tight deadlines, keeps the company's servers running, and assists support and production teams in tackling weird and wonderful problems.
+
+Spends down-time working on various daft projects, such as building a DIY home 3D printer; developing a Gameboy emulator; hacking together interactive digital art toys and games; and building a 1500W electric skateboard (which has only resulted in very minor injuries!).
+
+Experience:
+
+Cloudreach - DevOps Engineer, Agile Improvement Services
+
+May 2017 - Present
+
+    Worked as part of the company's Agile Improvement Services team.  Our team is hired by organistations looking to not only improve their cloud enviroments, but also make lasting improvements to their operational and development processes to ensure the long-term success of their cloud adoption programmes.
+    Integrated directly into client cloud development teams and worked with them to design and implement a robust, well-engineered cloud platform, tailored to their requirements.
+    Advised customers on topics such as:
+        Cloud-native design
+        Designing robust, scalable and highly available cloud services.
+        Infrastructure as code, source control and CI/CD best practices.
+        Automated infrastructure deployment.
+        Improving migrated applications to better exploit the advantages of cloud hosting.
+        Using and improving Agile and DevOps methodologies to streamline team workflow.
+    Worked with several large financial organisations and energy companies, and implemented significant and long-lasting improvements.
+
+Edesix Ltd - R&D Software Engineer
+
+July 2014 - May 2017
+
+    Worked in Java development, maintaining the company's flagship software, VideoManager. Wrote all code to peer-review, working under an Agile development methodology. Often worked on experimental features, requiring thorough research and planning.
+    Administered an array of Linux-based internal and customer-facing servers. Maintained a high standard of security and reliability. Set up and maintained company's Jenkins CI continuous integration and testing server, and Hyper-V virtual machine host cluster.
+    Developed software for ARM-based embedded systems.
+    Worked heavily with administrating Virtual Machines and Virtualization technology. Used a variety of Virtualization technologies such as libvirtd + KVM, VirtualBox, VMWare, Hyper-V, Docker, OpenStack, and Amazon EC2.
+    Developed software for programming and focusing VideoBadge cameras on the production line.
+    Developed and maintained the company's EdgeController product; a standalone appliance for use in customer's homes, where lone workers can dock their VideoBadge camera and have their footage automatically uploaded to their employer's central VideoManager server.
+    Represented the company at numerous careers fairs across Scotland, and at IFSEC trade show in London.
+    Ran a voluntary Linux and Networking training workshop for employees.
+
+Cairndene Ltd - Software Development Student Placement
+
+May - October 2013
+
+    Developed a commercial web-based Enterprise Resource Planning system.
+    Worked closely with client throughout the development process, using an Agile development methodology.
+    Set up the company's version control, continuous integration and issue-tracking systems.
+    Worked with Java frameworks such as Spring and Hibernate.
+    Used Maven and Jenkins CI to automate software builds.
+    Project is now in continued development within the company, with plans for commercialization.
+
+NCR Corporation Dundee - Software Development Student Placement.
+
+June - August 2012
+
+    Worked in a pair with another intern to develop a piece of software to be used to generate and edit configuration files for a status reporting system for NCR ATMs.
+    Wrote C# in Visual Studio.
+    Set up and used Git version control.
+    Worked with reading, generating and modifying XML configuration files.
+    Worked to weekly code reviews, ensuring code met company standards.
+    Gained experience working in a large corporate environment.
+
+University of Dundee
+
+September 2010 - June 2014
+
+Honours Project:
+
+    Developed a pipe organ VST synthesizer, using audio samples recorded from a real church pipe organ.
+    Using VST.NET and C# in Visual Studio.
+    Audio samples recorded from four perspectives to faithfully capture acoustic properties of the instrument.
+    Completed in April 2014, and presented at the annual School of Computing Degree Show, where the public were invited to try the four-manual MIDI organ built to demonstrate the software.
+
+Skills:
+
+    Linux operating systems, especially RHEL-based distros.
+    Server administration.
+    Networking and Data Communications.
+    Object-oriented programming, especially Java and C#.
+    Git and Subversion version control.
+    Jenkins Continuous Integration software.
+    Problem solving under pressure.
+    Reading and writing beginner-level French.
+    Fundamental experience with electronics.
+
+    Languages most familiar with:
+    Java 8, C#, JavaScript, BASH
+
+    Other languages known:
+    C++, Python, Lua, PHP, OpenGL, SQL
+
+Education:
+
+University of Dundee - BSc. Applied Computing (Honours)
+
+Graduated June 2014 with 2:1 Honours
+
+Level 1:
+	
+
+Level 2:
+
+    Introduction to Software Development
+    Web Authoring
+    Data Structures and Algorithms
+    Argumentation and Computers
+    Physical Computing
+    Introductory Psychology
+
+	
+
+    Algorithms and A.I.
+    Multi-paradigm Programming and Data Structures
+    Computer Systems
+    Information Technology
+    Object-Oriented Analysis and Design
+
+Level 3:
+	
+
+Level 4:
+
+    Networks and Data Communications
+    Agile Software Engineering
+    Games Programming
+    Database Systems
+    HCI and Usability Engineering
+    Internet Programming
+
+	
+
+    Graphics
+    Multimedia: Audio
+    Transforming Health with Technology
+    Robot Eyes
+    Space Systems
+    Constraint Programming
+    Industrial Team Project
+    Individual Honours Project
+
